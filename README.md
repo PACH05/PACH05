@@ -1,5 +1,10 @@
-### Hi there 👋, This is Prasanta
+### Hi there 👋 This is Prasanta
 
+🌱 I’m currently learning Data Structures and Algorithms and Machine Learning.
+
+Check out my repositories to see my latest works,
+
+Good Day!
 <!--
 **PACH05/PACH05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
