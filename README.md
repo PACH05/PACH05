@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Prasanta
 
-🌱 I’m currently learning Data Structures and Algorithms and Machine Learning.
+🌱 I’m currently learning Data Structures and Algorithms and Backend Development.
 
 🎈 Check out my repositories to see my latest works,
 
