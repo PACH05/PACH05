@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Prasanta
 
-🌱 I’m currently learning Full Stack Development using NextJS and DSA.
-
 🔭 I’m currently working as a Data Engineer at EY.
+
+🌱 I’m currently exploring Full Stack Development using NextJS and DSA.
 
 🎈 Check out my repositories to see my works.
 
